@@ -242,6 +242,25 @@ After arrival on Ethereum mainnet, funds moved through additional wallets before
 ```
 
 ---
+### 3.6 MetaSleuth Fund Flow Graph
+
+*Full fund flow visualization showing complete movement of stolen funds from the Merlin Explorer wallet through distribution wallets to CEX deposit addresses on Ethereum mainnet.*
+
+
+
+![Fund Flow Graph](fund-flow-graph.png)
+
+
+
+*Zoomed view showing final fund movements from intermediate wallet to Binance and MEXC deposit addresses.*
+
+
+
+![CEX Deposit Graph](cex-deposit-graph.png)
+
+
+
+---
 
 ## Funding Source Analysis
 
