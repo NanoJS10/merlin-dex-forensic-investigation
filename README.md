@@ -363,7 +363,84 @@ Finding:     Funds traced to MEXC and Binance CEX deposit addresses
 Identity:    Rogue developer(s) UNCONFIRMED
 Next step:   Law enforcement action on exchange KYC records
 ```
+---
 
+## Real-World Outcomes
+
+### 7.1 Exchange Response — MEXC
+
+Following formal submission of this 
+forensic investigation report to MEXC 
+Exchange on May 7, 2026, three official 
+responses were received confirming 
+account freeze action.
+
+#### Response 1 — May 7, 2026
+
+| Field | Detail |
+|-------|--------|
+| Agent | Carolina — MEXC Customer Service |
+| Ticket | #20260507000124 |
+| Date | 2026-05-07 15:27:36 |
+| Outcome | Account temporarily frozen for 24 hours pending law enforcement order |
+
+Key action: MEXC froze the identified 
+deposit address for 24 hours and 
+requested withdrawal confirmation 
+screenshots to extend the freeze.
+
+
+
+![MEXC Response 1](mexc-response-1-carolina-freeze.png)
+
+
+
+---
+
+#### Response 2 — May 8, 2026
+
+| Field | Detail |
+|-------|--------|
+| Agent | Sarah W — MEXC Customer Service |
+| Ticket | #20260507000124 |
+| Date | 2026-05-08 03:11:02 |
+| Outcome | Freeze extended to 48 hours following evidence submission |
+
+Key action: Following submission of 
+MetaSleuth graph evidence and 
+transaction records MEXC extended 
+the account freeze to 48 hours.
+
+
+
+![MEXC Response 2](mexc-response-2-sarah-48hr.png)
+
+
+
+---
+
+#### Response 3 — May 9, 2026
+
+| Field | Detail |
+|-------|--------|
+| Agent | Lani — MEXC Customer Service |
+| Ticket | #20260507000124 |
+| Date | 2026-05-09 09:45:18 |
+| Outcome | Freeze maintained — law enforcement portal confirmed |
+
+Key action: MEXC confirmed urgency 
+and provided official law enforcement 
+submission portal for order processing.
+
+
+
+![MEXC Response 3](mexc-response-3-lani-portal.png)
+
+
+
+---
+
+#### MEXC Law Enforcement Portal
 ---
 
 ## Appendix
